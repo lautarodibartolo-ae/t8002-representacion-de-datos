@@ -1,0 +1,29 @@
+curso_codigo,curso_nombre,sede,sede_direccion,dni_alumno,alumno_nombre,fecha_inscripcion,nota,materiales
+OFI-101,Ofimática para la gestión,Centro Cívico,Av. San Martín 1240,27458113,"Acuña, Valentina",2026-03-02,8,manual;pendrive
+OFI-101,Ofimática para la gestión,Centro Cívico,Av. San Martín 1240,30112894,"Benítez, Rodrigo",2026-03-02,6,manual;pendrive
+OFI-101,Ofimática para la gestión,Centro Cívico,Av. San Martín 1240,24907556,"Coria, Silvana",2026-03-03,9,manual;pendrive
+OFI-101,Ofimática para la gestión,Centro Cívico,Av. San Martín 1240,29663470,"Escobar, Lucía",2026-03-05,7,manual;pendrive
+OFI-101,Ofimática para la gestión,Centro Cívico,Av. San Martín 1240,34550619,"Herrera, Nicolás",2026-03-05,,manual;pendrive
+DAT-201,Introducción a datos abiertos,Anexo Belgrano,Belgrano 455,27458113,"Acuña, Valentina",2026-03-09,10,manual;planillas;pendrive
+DAT-201,Introducción a datos abiertos,Anexo Belgrano,Belgrano 455,33874201,"Duarte, Emiliano",2026-03-09,7,manual;planillas;pendrive
+DAT-201,Introducción a datos abiertos,Anexo Belgrano,Belgrano 455,26145338,"Gómez, Patricia",2026-03-10,8,manual;planillas;pendrive
+DAT-201,Introducción a datos abiertos,Anexo Belgrano,Belgrano 455,31220987,"Ferreyra, Martín",2026-03-12,,manual;planillas;pendrive
+ATC-110,Atención al vecino,Centro Cívico,Av. San Martín 1240,30112894,"Benítez, Rodrigo",2026-04-06,9,cuadernillo
+ATC-110,Atención al vecino,Centro Cívico,Av. San Martín 1240,24907556,"Coria, Silvana",2026-04-06,8,cuadernillo
+ATC-110,Atención al vecino,Centro Cívico,Av. San Martín 1240,29663470,"Escobar, Lucía",2026-04-07,6,cuadernillo
+ATC-110,Atención al vecino,Centro Cívico,Av. San Martín 1240,26145338,"Gómez, Patricia",2026-04-07,9,cuadernillo
+ATC-110,Atención al vecino,Centro Cívico,Av. San Martín 1240,34550619,"Herrera, Nicolás",2026-04-08,7,cuadernillo
+GEO-305,Mapas y datos georreferenciados,Anexo Belgrano,Belgrano 455,27458113,"Acuña, Valentina",2026-04-13,9,manual;planillas
+GEO-305,Mapas y datos georreferenciados,Anexo Belgrano,Belgrano 455,33874201,"Duarte, Emiliano",2026-04-13,8,manual;planillas
+GEO-305,Mapas y datos georreferenciados,Anexo Belgrano,Belgrano 455,31220987,"Ferreyra, Martín",2026-04-14,,manual;planillas
+RED-120,Redacción administrativa,Sede Norte,Ruta 9 km 12,24907556,"Coria, Silvana",2026-05-04,7,cuadernillo;manual
+RED-120,Redacción administrativa,Sede Norte,Ruta 9 km 12,30112894,"Benítez, Rodrigo",2026-05-04,8,cuadernillo;manual
+RED-120,Redacción administrativa,Sede Norte,Ruta 9 km 12,26145338,"Gómez, Patricia",2026-05-05,9,cuadernillo;manual
+RED-120,Redacción administrativa,Sede Norte,Ruta 9 km 12,29663470,"Escobar, Lucía",2026-05-05,6,cuadernillo;manual
+RED-120,Redacción administrativa,Sede Norte,Ruta 9 km 12,33874201,"Duarte, Emiliano",2026-05-06,,cuadernillo;manual
+OFI-101,Ofimática para la gestión,Centro Cívico,Av. San Martín 1240,31220987,"Ferreyra, Martín",2026-06-01,8,manual;pendrive
+OFI-101,Ofimática para la gestión,Centro Cívico,Av. San Martín 1240,26145338,"Gómez, Patricia",2026-06-01,7,manual;pendrive
+DAT-201,Introducción a datos abiertos,Anexo Belgrano,Belgrano 455,29663470,"Escobar, Lucía",2026-06-08,9,manual;planillas;pendrive
+DAT-201,Introducción a datos abiertos,Anexo Belgrano,Belgrano 455,34550619,"Herrera, Nicolás",2026-06-08,8,manual;planillas;pendrive
+GEO-305,Mapas y datos georreferenciados,Anexo Belgrano,Belgrano 455,24907556,"Coria, Silvana",2026-06-15,10,manual;planillas
+GEO-305,Mapas y datos georreferenciados,Anexo Belgrano,Belgrano 455,30112894,"Benítez, Rodrigo",2026-06-15,7,manual;planillas

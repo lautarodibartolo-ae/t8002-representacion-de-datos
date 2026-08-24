@@ -1,0 +1,11 @@
+socio_id,socio_nombre,isbn,titulo,editorial,editorial_ciudad,fecha_prestamo
+104,"Aguirre, Nadia",978-950-04-1,El juguete rabioso,Losada,Buenos Aires,2026-04-06
+104,"Aguirre, Nadia",978-987-11-2,Cuentos de la selva,Colihue,Buenos Aires,2026-04-06
+104,"Aguirre, Nadia",978-987-57-5,El Aleph,Emecé,Barcelona,2026-05-11
+217,"Molina, Hugo",978-950-04-1,El juguete rabioso,Losada,Buenos Aires,2026-04-14
+217,"Molina, Hugo",978-950-04-3,La invención de Morel,Losada,Buenos Aires,2026-04-14
+217,"Molina, Hugo",978-987-11-4,Facundo,Colihue,Buenos Aires,2026-05-04
+338,"Paz, Cecilia",978-987-11-2,Cuentos de la selva,Colihue,Buenos Aires,2026-04-20
+338,"Paz, Cecilia",978-987-57-5,El Aleph,Emecé,Barcelona,2026-04-20
+338,"Paz, Cecilia",978-950-04-3,La invención de Morel,Losada,Buenos Aires,2026-05-18
+338,"Paz, Cecilia",978-987-11-4,Facundo,Colihue,Buenos Aires,2026-05-18
